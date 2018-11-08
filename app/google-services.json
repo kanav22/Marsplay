@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "143617909111",
+    "firebase_url": "https://marsplay-69e71.firebaseio.com",
+    "project_id": "marsplay-69e71",
+    "storage_bucket": "marsplay-69e71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143617909111:android:f1c7e7fab7ef99a2",
+        "android_client_info": {
+          "package_name": "www.kanavwadhawan.com.marsplay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143617909111-pp0q4o18i783mmcad3f44ncjkb97glga.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "www.kanavwadhawan.com.marsplay",
+            "certificate_hash": "f5f07dffa6b296417db7f2f157ff413a32339192"
+          }
+        },
+        {
+          "client_id": "143617909111-jltvjt5mu3nlo4gsjlmmfcn16lf1bat7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC95j9dGbN6bEKyCLiNnMGnezppGfdBnDo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143617909111-jltvjt5mu3nlo4gsjlmmfcn16lf1bat7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
